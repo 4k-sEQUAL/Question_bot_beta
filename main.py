@@ -1,0 +1,6 @@
+firstname = input("What is your first name?")
+lastname = input("What is your last name?")
+print ("Hi There!," + firstname + " " + lastname)
+print ("How are you doing on a scale of 1-10?")
+numberanswer = input("How are you doing on a scale of 1-10?")
+print ("")
